@@ -3,4 +3,4 @@ Development of artificial intelligence in Python for university and private proj
 Under construction!!
 
 
-Notebook_Bitcoin_tweets_classifier: Pequeño estudio para trabajo universitario en grupo 
+Notebook_Bitcoin_tweets_classifier: A little "raw" study for bitcoin correlation with twitter 
