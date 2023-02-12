@@ -1,4 +1,4 @@
-
+#  Identify by visual
 
 Proyecto propio de automatizacion del proceso de creacion de un modelo de vision computacional, inicialmente, en base a la red YOLO.
 
