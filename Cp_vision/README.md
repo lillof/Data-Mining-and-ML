@@ -14,3 +14,15 @@ El objetivo del proyecto es en generar desde la base de datos necesaria hasta la
       Guardado_de_modelo-->Implementacion_de_modelo;
       
 ```
+
+## Base de datos 
+
+La generación de la base de datos es por un web scraping a partir de las herramientas más básicas posibles de trabajar en python, esto es utilizar código fuente en base a requests hacia la web. 
+
+Si bien este enfoque puede ser en un inicio limitante para el crecimiento de la base de datos, dado el objetivo se ve que es un buen punto de partida. La escalabilidad quedará indicada en un futuro terminada la iteración.
+
+
+## Entrenamiento de red
+
+
+## Deploy
