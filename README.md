@@ -3,4 +3,3 @@ Development of artificial intelligence in Python for university and private proj
 
 
 - BT_analisis: Notebook_Bitcoin_tweets_classifier: A little "raw" study for bitcoin correlation with twitter.
-- Cp_vision: Identify by visual : Automation in the creation of identifier models by computational vision, based on the user's taste.
