@@ -1,4 +1,6 @@
 # Data mining and ML
+*This repository is under construction, so it is a bit empty*
+
 Development of artificial intelligence in Python for university and private projects. 
 
 
